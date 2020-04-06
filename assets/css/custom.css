@@ -1,0 +1,111 @@
+:root {
+    --primary-color: #754ef9;
+}
+.container {
+    width: 1280px;
+    max-width: 100%;
+}
+
+/* ACCORDION */
+.accordion_target > * {
+    transition: all 0.5s;
+}
+.accordion_target.accordion_active > * {
+    color: var(--primary-color);
+}
+
+/* NAVIGATION */
+
+.navigation li.nav-item {
+    position: relative;
+}
+.navigation li.nav-item .nav-item--dropdown {
+    position: absolute;
+    padding-top: 35px;
+    -webkit-transition: all 0.3s ease-out 0s;
+    -moz-transition: all 0.3s ease-out 0s;
+    -ms-transition: all 0.3s ease-out 0s;
+    -o-transition: all 0.3s ease-out 0s;
+    transition: all 0.3s ease-out 0s;
+    opacity: 0;
+    visibility: hidden;
+}
+.navigation li.nav-item .nav-item--dropdown ul.dropdown--navbar-lv2 {
+    padding: 20px;
+    background: #fff;
+    width: 220px;
+    box-shadow: 1px 1px 14px 0px rgba(0, 0, 0, 0.05);
+    border-radius: 5px;
+}
+.navigation li.nav-item .nav-item--dropdown ul.dropdown--navbar-lv2 a {
+    font-size: 15px !important;
+    color: #8a8fa3 !important;
+}
+.navigation li.nav-item .nav-item--dropdown ul.dropdown--navbar-lv2 a:before {
+    display: none;
+}
+.navigation li.nav-item:hover .nav-item--dropdown {
+    opacity: 1;
+    visibility: visible;
+    padding-top: 20px;
+}
+.navigation li.nav-item .nav-item--dropdown ul.dropdown--navbar-lv2 a:hover {
+    color: #754ef9 !important;
+}
+
+/* PORTFOLIO */
+.thumb-platform {
+    height: 28px;
+    padding: 6px 10px;
+    position: absolute;
+    right: 7px;
+    top: 7px;
+    background: #fff;
+    border: 1px solid #eee;
+    border-radius: 24px;
+}
+.thumb-platform img {
+    height: 14px;
+    display: block;
+    margin: 0 auto;
+}
+
+
+/* DÚVIDAS FREQUENTES */
+#content_doubt .item-doubt {
+    background: #f7f7f7;
+    border-radius: 7px;
+    box-shadow: 0px 5px 9px -4px rgba(0, 0, 0, 0.015);
+}
+#content_doubt .item-doubt:hover .accordion_target > *{
+    color: var(--primary-color);
+}
+
+#content_doubt .item-doubt .single-doubt--body .body--text-doubt {
+    border-top: 1px solid #e8e8e8;
+}
+#content_doubt .item-doubt .lni-chevron-down {
+    top: 4px;
+    font-size: 20px;
+}
+
+#content_doubt .single-doubt--header {
+    cursor: pointer;
+}
+
+/* CONTATO */
+.contact-box a, select.value-form.adjust-item.no-value {
+    color: #8a8fa3;
+}
+
+/* FOOTER */
+.footer-widget:before {
+    position: absolute;
+    content: '';
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(21, 33, 54, 0.82);
+    z-index: 0;
+}
