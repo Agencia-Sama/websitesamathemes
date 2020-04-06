@@ -1,5 +1,5 @@
 :root {
-    --primary-color: #754ef9;
+    --primary-color: #6fd1d9;
 }
 .container {
     width: 1280px;
@@ -50,7 +50,7 @@
     padding-top: 20px;
 }
 .navigation li.nav-item .nav-item--dropdown ul.dropdown--navbar-lv2 a:hover {
-    color: #754ef9 !important;
+    color:var(--primary-color) !important;
 }
 
 /* PORTFOLIO */

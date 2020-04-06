@@ -21,6 +21,7 @@ const fn = {
 
         // adjust item select
         $('select.adjust-item').change(function(){
+            console.log('xxx');
             $(this).removeClass('no-value')
         });
     }
