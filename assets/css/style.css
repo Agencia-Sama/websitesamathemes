@@ -1510,7 +1510,7 @@ p.form-message.success.form-message.error, p.form-message.error.form-message.err
     border: 1px solid #ddd;
     padding: 0 25px;
     font-size: 16px;
-    color: #7650f9;
+    color: var(--primary-color);
 }
 .single-form input.placeholder, .single-form textarea.placeholder {
     opacity: 1;
