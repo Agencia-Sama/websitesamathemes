@@ -1,5 +1,6 @@
 :root {
-    --primary-color: #6fd1d9;
+    --primary-color: #f5860e;
+    --secundary-color: #737373;
 }
 .container {
     width: 1280px;
@@ -39,7 +40,7 @@
 }
 .navigation li.nav-item .nav-item--dropdown ul.dropdown--navbar-lv2 a {
     font-size: 15px !important;
-    color: #8a8fa3 !important;
+    color: var(--secundary-color); !important;
 }
 .navigation li.nav-item .nav-item--dropdown ul.dropdown--navbar-lv2 a:before {
     display: none;
@@ -95,7 +96,7 @@
 
 /* CONTATO */
 .contact-box a, select.value-form.adjust-item.no-value {
-    color: #8a8fa3;
+    color: var(--secundary-color);
 }
 
 /* FOOTER */
@@ -106,6 +107,6 @@
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: rgba(21, 33, 54, 0.82);
+    background-color: rgba(00, 00, 00, 0.82);
     z-index: 0;
 }
