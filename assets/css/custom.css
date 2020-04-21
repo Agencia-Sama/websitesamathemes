@@ -110,3 +110,18 @@
     background-color: rgba(00, 00, 00, 0.82);
     z-index: 0;
 }
+
+
+@media (max-width: 767px){
+    .navigation li.nav-item .nav-item--dropdown {
+        position: static;
+        opacity: 1;
+        visibility: visible;
+        padding: 5px 0 10px 0;
+        box-shadow: none !important;
+    }
+    .navigation li.nav-item .nav-item--dropdown ul.dropdown--navbar-lv2 {
+        background: #eaeaea;
+        padding: 5px 17px;
+    }
+}
