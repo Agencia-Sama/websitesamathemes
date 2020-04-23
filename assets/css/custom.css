@@ -40,7 +40,7 @@
 }
 .navigation li.nav-item .nav-item--dropdown ul.dropdown--navbar-lv2 a {
     font-size: 15px !important;
-    color: var(--secundary-color); !important;
+    color: var(--secundary-color) !important;
 }
 .navigation li.nav-item .nav-item--dropdown ul.dropdown--navbar-lv2 a:before {
     display: none;
