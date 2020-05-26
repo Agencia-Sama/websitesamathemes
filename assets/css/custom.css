@@ -124,4 +124,36 @@
         background: #eaeaea;
         padding: 5px 17px;
     }
+    .navigation>.container>.row > .col-lg-12 {
+        padding: 0;
+    }
+    .navigation .navbar .navbar-brand {
+        padding-left: 12px;
+    }
+    .navigation .navbar .navbar-toggler {
+        margin-right: 8px;
+    }
+    .navigation .navbar .navbar-collapse {
+        top: 56px;
+        border-top: 1px solid #eee;
+        padding: 0;
+    }
+    .navigation.fixed-top {
+        padding: 16px 0 !IMPORTANT;
+    }
+    form#contact-form .single-form button.main-btn {
+        width: 100%;
+        max-width: 320px;
+        padding: 0;
+        font-size: 14px;
+    }
+    form#contact-form .single-form:last-child {
+        text-align: center;
+    }
+    .header-content {
+        margin-top: 73px;
+    }
+    .navigation .navbar .navbar-collapse > .navbar-nav {
+        padding: 9px 12px;
+    }
 }
