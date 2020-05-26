@@ -1,7 +1,26 @@
+@media (min-width: 767px){ /* desktop */
+    .visible-mobile {
+        display:none!important;
+    }
+    .visible-desktop {
+        display:block!important;
+    }
+}
+
+@media (max-width: 767px){ /* mobile */
+    .visible-desktop {
+        display:none!important;
+    }
+    .visible-mobile {
+        display:block!important;
+    }
+}
+
 :root {
     --primary-color: #f5860e;
     --secundary-color: #737373;
 }
+
 .container {
     width: 1280px;
     max-width: 100%;
