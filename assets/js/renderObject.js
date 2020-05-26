@@ -17,7 +17,7 @@ const fn = {
                 }
             });
             let domain = screen.width > 767 ? 'web' : 'api';
-            window.open(`https://${domai}.whatsapp.com/send?phone=558188185372&text=${arrayTxt.join('%0a')}`);
+            window.open(`https://${domain}.whatsapp.com/send?phone=558188185372&text=${arrayTxt.join('%0a')}`);
         });
 
         // adjust item select
