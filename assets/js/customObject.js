@@ -3,7 +3,7 @@ const SMTHEMESOBJECT = {
     PortFolio: [
         {
             name: 'Samá v1 Jewelry Light',
-            image: 'https://intehttps://integrando.se//files/produtos/2021/420/sama-v1-jewelry-light.png',
+            image: 'https://integrando.se//files/produtos/2021/420/sama-v1-jewelry-light.png',
             url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v1-jewelry-light/',
             sales: 0,
             rated: 0
