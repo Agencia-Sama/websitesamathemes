@@ -73,5 +73,7 @@ const SMTHEMESFUNCTIONS = {
 
 
 SMTHEMESFUNCTIONS.renderPortFolio();
+
 SMTHEMESFUNCTIONS.accordionCustom();
+
 fn.submitForm('#contact-form');
