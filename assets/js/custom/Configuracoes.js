@@ -1,5 +1,5 @@
-const SMTHEMESOBJECT = {
-    //Portfolio (Temas)
+const Configuracoes = {
+
     PortFolio: [
         {
             name: 'Samá v1 Jewelry Light',
@@ -40,21 +40,21 @@ const SMTHEMESOBJECT = {
         {
             name: 'Samá v1 Bijou Goldlight',
             image: 'https://integrando.se//files/produtos/1713/420/sama-v1-bijou-goldlight.png',
-            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v1-bijou-goldlight-1713/',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v1-bijou-goldlight/',
             sales: 0,
             rated: 0
         },
         {
             name: 'Samá v1 Footwear Black',
             image: 'https://integrando.se//files/produtos/1712/420/sama-v1-footwear-black.png',
-            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v1-footwear-black-1712/',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v1-footwear-black/',
             sales: 1,
             rated: 0
         },
         {
             name: 'Samá v1 Cosmetic Pink',
             image: 'https://integrando.se//files/produtos/1711/420/sama-v1-cosmetic-pink.png',
-            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v1-cosmetic-pink-1711/',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v1-cosmetic-pink/',
             sales: 0,
             rated: 0
         },
@@ -69,6 +69,4 @@ const SMTHEMESOBJECT = {
 
 }
 
-
-
-
+export default Configuracoes;

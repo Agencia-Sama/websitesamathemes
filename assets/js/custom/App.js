@@ -1,6 +1,10 @@
-const fn = {
-    submitForm(idForm){
-        $(idForm).on('submit', function(e){
+import Settings from './Configuracoes.js';
+
+const SMTHEMESFUNCTIONS = {
+
+    enviarMensagemWhatsapp(){
+
+        $('#contact-form').on('submit', function(e){
             e.preventDefault();
             let itemsForm = [...$(this)[0].elements]
             window.arrayTxt = [];
@@ -25,11 +29,10 @@ const fn = {
             console.log('xxx');
             $(this).removeClass('no-value')
         });
-    }
-}
 
-const SMTHEMESFUNCTIONS = {
-    accordionCustom(){
+    },
+
+    accordionCustomizada(){
         $(document).on('click', '.accordion_item .accordion_target', function(){
             $(this).toggleClass('accordion_active');
             $(this).parents('.accordion_item').find('.accordion_content').slideToggle(500);
@@ -37,8 +40,9 @@ const SMTHEMESFUNCTIONS = {
     },
 
     // Renderiza Portfolio
-    renderPortFolio(){
-        let HTMPortoflio = SMTHEMESOBJECT.PortFolio.map(item=>{
+    renderizarPortFolio(){
+
+        let HTMPortfolio = Settings.PortFolio.map(item=>{
             return `
             <div class="col-lg-4 col-md-6 col-sm-6">
                 <div class="single-work text-center mb-25">
@@ -61,7 +65,7 @@ const SMTHEMESFUNCTIONS = {
             </div>`;
         }).join('');
 
-        $('#content_portfolio').html(HTMPortoflio);
+        $('#content_portfolio').html(HTMPortfolio);
     }
 }
 
@@ -72,8 +76,8 @@ const SMTHEMESFUNCTIONS = {
 
 
 
-SMTHEMESFUNCTIONS.renderPortFolio();
+SMTHEMESFUNCTIONS.renderizarPortFolio();
 
-SMTHEMESFUNCTIONS.accordionCustom();
+SMTHEMESFUNCTIONS.accordionCustomizada();
 
-fn.submitForm('#contact-form');
+SMTHEMESFUNCTIONS.enviarMensagemWhatsapp();
