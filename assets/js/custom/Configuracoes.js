@@ -2,6 +2,34 @@ const Configuracoes = {
 
     PortFolio: [
         {
+            name: 'Samá v2 Cosmetic',
+            image: 'https://integrando.se//files/produtos/2509/420/sama-v2-cosmetic.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v2-cosmetic-2509/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v2 Fashion',
+            image: 'https://integrando.se//files/produtos/2510/420/sama-v2-fashion.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v2-fashion-2510/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v2 Fitness',
+            image: 'https://integrando.se//files/produtos/2511/420/sama-v2-fitness.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v2-fitness-2511/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v2 Footwear',
+            image: 'https://integrando.se//files/produtos/2512/420/sama-v2-footwear.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v2-footwear-2512/',
+            sales: 0,
+            rated: 0
+        },
+        {
             name: 'Samá v1 Jewelry Light',
             image: 'https://integrando.se//files/produtos/2021/420/sama-v1-jewelry-light.png',
             url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v1-jewelry-light/',
