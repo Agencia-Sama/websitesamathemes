@@ -4,7 +4,7 @@ const Configuracoes = {
         {
             name: 'Samá v2 Cosmetic',
             image: 'https://integrando.se//files/produtos/2509/420/sama-v2-cosmetic.png',
-            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v2-cosmetic-2509/',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v2-cosmetic/',
             sales: 0,
             rated: 0
         },
