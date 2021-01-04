@@ -2,30 +2,58 @@ const Configuracoes = {
 
     PortFolio: [
         {
+            name: 'Samá v2 Men',
+            image: 'https://integrando.se//files/produtos/2663/420/venda-mais-com-sama-v2-men.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/venda-mais-com-sama-v2-men/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v2 Smart',
+            image: 'https://integrando.se//files/produtos/2662/420/venda-mais-com-sama-v2-smart.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/venda-mais-com-sama-v2-smart/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v2 Sexshop',
+            image: 'https://integrando.se//files/produtos/2661/420/venda-mais-com-sama-v2-sexshop.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/venda-mais-com-sama-v2-sexshop/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v2 Pets',
+            image: 'https://integrando.se//files/produtos/2660/420/venda-mais-com-sama-v2-pets.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/venda-mais-com-sama-v2-pets/',
+            sales: 0,
+            rated: 0
+        },
+        {
             name: 'Samá v2 Cosmetic',
             image: 'https://integrando.se//files/produtos/2509/420/sama-v2-cosmetic.png',
-            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v2-cosmetic/',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/venda-mais-com-sama-v2-cosmetic/',
             sales: 0,
             rated: 0
         },
         {
             name: 'Samá v2 Fashion',
             image: 'https://integrando.se//files/produtos/2510/420/sama-v2-fashion.png',
-            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v2-fashion-2510/',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/venda-mais-com-sama-v2-fashion/',
             sales: 0,
             rated: 0
         },
         {
             name: 'Samá v2 Fitness',
             image: 'https://integrando.se//files/produtos/2511/420/sama-v2-fitness.png',
-            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v2-fitness-2511/',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/venda-mais-com-sama-v2-fitness/',
             sales: 0,
             rated: 0
         },
         {
             name: 'Samá v2 Footwear',
             image: 'https://integrando.se//files/produtos/2512/420/sama-v2-footwear.png',
-            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v2-footwear-2512/',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/venda-mais-com-sama-v2-footwear/',
             sales: 0,
             rated: 0
         },
