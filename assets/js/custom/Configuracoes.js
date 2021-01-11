@@ -2,6 +2,34 @@ const Configuracoes = {
 
     PortFolio: [
         {
+            name: 'Samá v2 Bikes',
+            image: 'https://integrando.se//files/produtos/2716/420/venda-mais-com-sama-v2-bikes.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/venda-mais-com-sama-v2-bikes-2716/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v2 Vinhos',
+            image: 'https://integrando.se//files/produtos/2715/420/venda-mais-com-sama-v2-vinhos.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/venda-mais-com-sama-v2-vinhos-2715/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v2 Kids',
+            image: 'https://integrando.se//files/produtos/2714/420/venda-mais-com-sama-v2-kids.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/venda-mais-com-sama-v2-kids-2714/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v2 Cozinha',
+            image: 'https://integrando.se//files/produtos/2713/420/venda-mais-com-sama-v2-cozinha.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/venda-mais-com-sama-v2-cozinha-2713/',
+            sales: 0,
+            rated: 0
+        },
+        {
             name: 'Samá v2 Men',
             image: 'https://integrando.se//files/produtos/2663/420/venda-mais-com-sama-v2-men.png',
             url: 'https://integrando.se/temas/e-commerce/loja-integrada/venda-mais-com-sama-v2-men/',
