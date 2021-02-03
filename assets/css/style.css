@@ -2089,3 +2089,21 @@ p.form-message.success.form-message.error, p.form-message.error.form-message.err
     cursor: pointer;
 }
 /*# sourceMappingURL=style.css.map */
+
+div#content_portfolio {
+    height: 580px;
+    overflow-y: scroll;
+}
+div#content_portfolio::-webkit-scrollbar {
+  width: 10px;
+}
+div#content_portfolio::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+div#content_portfolio::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius:25px;
+}
+.navbar-expand-lg .navbar-nav li.nav-item:nth-child(5) {
+    display: none;
+}
