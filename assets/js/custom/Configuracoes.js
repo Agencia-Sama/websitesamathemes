@@ -2,6 +2,34 @@ const Configuracoes = {
 
     PortFolio: [
         {
+            name: 'Up Vendas - Cosméticos Store',
+            image: 'https://integrando.se//files/produtos/2923/420/up-vendas-cosmeticos-store.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/up-vendas-cosmeticos-store-2923/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Up Vendas - Calçados Store',
+            image: 'https://integrando.se//files/produtos/2922/420/up-vendas-calcados-store.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/up-vendas-calcados-store-2922/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Up Vendas - Biju Store',
+            image: 'https://integrando.se//files/produtos/2921/420/up-vendas-biju-store.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/up-vendas-biju-store/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Up Vendas - Moda Masculina',
+            image: 'https://integrando.se//files/produtos/2904/420/1613067773up-vendas-moda-masculina.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/up-vendas-moda-masculina/',
+            sales: 0,
+            rated: 0
+        },
+        {
             name: 'Samá v2 Biquínis',
             image: 'https://integrando.se//files/produtos/2772/420/venda-mais-com-sama-v2-biquinis.png',
             url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v2-biquinis/',
