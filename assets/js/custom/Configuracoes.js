@@ -2,6 +2,163 @@ const Configuracoes = {
 
     PortFolio: [
         {
+            name: 'Samá v3 - Peças de Carro',
+            image: 'https://integrando.se//files/produtos/3290/420/sama-v3-pecas-de-carro.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v3-pecas-de-carro-3290/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v3 - Plus Size',
+            image: 'https://integrando.se//files/produtos/3281/420/sama-v3-plus-size.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v3-plus-size-3281/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v3 - Joias Store',
+            image: 'https://integrando.se//files/produtos/3259/420/sama-v3-joias-store.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v3-joias-store-3259/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v3 - Boné Store',
+            image: 'https://integrando.se//files/produtos/3114/420/sama-v3-bone-store.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v3-bone-store-3114/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v3 - Utensílios de Cozinha',
+            image: 'https://integrando.se//files/produtos/3138/420/sama-v3-utensilios-de-cozinha.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v3-utensilios-de-cozinha-3138/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v3 - Moda Casual',
+            image: 'https://integrando.se//files/produtos/3144/420/sama-v3-modal-casual.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v3-modal-casual-3144/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v3 - Venícola Store',
+            image: 'https://integrando.se//files/produtos/3193/420/sama-v3-vinicola-store.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v3-vinicola-store-3193/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v3 - Calçados Store',
+            image: 'https://integrando.se//files/produtos/3194/420/sama-v3-calcados-store.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v3-calcados-store-3194/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v3 - Quadros Store',
+            image: 'https://integrando.se//files/produtos/3215/420/sama-v3-quadros-store.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v3-quadros-store-3215/',
+            sales: 0,
+            rated: 0
+        },
+
+
+
+        {
+            name: 'Samá v3 - Chope Store',
+            image: 'https://integrando.se//files/produtos/3063/420/sama-v3-chope-store.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v3-chope-store-3063/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v3 - Moda Íntima',
+            image: 'https://integrando.se//files/produtos/3064/420/sama-v3-monda-intima.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v3-moda-intima/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v3 - Pets Store',
+            image: 'https://integrando.se//files/produtos/3088/420/sama-v3-pets-store.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v3-pets-store-3088/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v3 - Enxoval Store',
+            image: 'https://integrando.se//files/produtos/3113/420/sama-v3-enxoval-store.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v3-enxoval-store-3113/',
+            sales: 0,
+            rated: 0
+        },
+
+
+        {
+            name: 'Samá v3 - Moda Fitness',
+            image: 'https://integrando.se//files/produtos/3063/420/sama-v3-chope-store.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v3-chope-store-3063/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v3 - Moda Praia',
+            image: 'https://integrando.se//files/produtos/3064/420/sama-v3-monda-intima.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v3-moda-intima/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v3 - PC Store',
+            image: 'https://integrando.se//files/produtos/3088/420/sama-v3-pets-store.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v3-pets-store-3088/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v3 - Relógio Store',
+            image: 'https://integrando.se//files/produtos/3113/420/sama-v3-enxoval-store.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v3-enxoval-store-3113/',
+            sales: 0,
+            rated: 0
+        },
+
+
+        {
+            name: 'Samá v3 - Moda Fitness',
+            image: 'https://integrando.se//files/produtos/3024/420/sama-v3-moda-fitness.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v3-moda-fitness-3024/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v3 - Moda Praia',
+            image: 'https://integrando.se//files/produtos/3025/420/sama-v3-moda-praia.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v3-moda-praia-3025/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v3 - PC Store',
+            image: 'https://integrando.se//files/produtos/3026/420/sama-v3-pc-store.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v3-pc-store-3026/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v3 - Relógio Store',
+            image: 'https://integrando.se//files/produtos/3058/420/sama-v3-relogio-store.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v3-relogio-store-3058/',
+            sales: 0,
+            rated: 0
+        },
+
+
+
+        {
             name: 'Up Vendas - Cosméticos Store',
             image: 'https://integrando.se//files/produtos/2923/420/up-vendas-cosmeticos-store.png',
             url: 'https://integrando.se/temas/e-commerce/loja-integrada/up-vendas-cosmeticos-store-2923/',
