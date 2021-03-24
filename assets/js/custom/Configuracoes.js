@@ -2,6 +2,35 @@ const Configuracoes = {
 
     PortFolio: [
         {
+            name: 'Samá v3 - Perfumaria',
+            image: 'https://integrando.se//files/produtos/3345/420/sama-v3-perfumaria.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v3-perfumaria-3345/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v3 - Casa e Decoração',
+            image: 'https://integrando.se//files/produtos/3343/420/sama-v3-casa-e-decoracao.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v3-casa-e-decoracao-3343/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v3 - Modas e Acessórios',
+            image: 'https://integrando.se//files/produtos/3334/420/sama-v3-modas-e-acessorios.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v3-modas-e-acessorios-3334/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v3 - Peças de Moto',
+            image: 'https://integrando.se//files/produtos/3306/420/sama-v3-pecas-de-moto.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v3-pecas-de-moto-3306/',
+            sales: 0,
+            rated: 0
+        },
+
+        {
             name: 'Samá v3 - Peças de Carro',
             image: 'https://integrando.se//files/produtos/3290/420/sama-v3-pecas-de-carro.png',
             url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v3-pecas-de-carro-3290/',
@@ -91,7 +120,7 @@ const Configuracoes = {
         {
             name: 'Samá v3 - Enxoval Store',
             image: 'https://integrando.se//files/produtos/3113/420/sama-v3-enxoval-store.png',
-            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v3-enxoval-store-3113/',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v3-enxoval-store/',
             sales: 0,
             rated: 0
         },
