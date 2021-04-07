@@ -2,6 +2,55 @@ const Configuracoes = {
 
     PortFolio: [
         {
+            name: 'Samá v3 - Utensílios de Casa',
+            image: 'https://integrando.se//files/produtos/3488/420/sama-v3-utensilios-de-casa.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v3-utensilios-de-casa-3488/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v3 - Maquiagem Store',
+            image: 'https://integrando.se//files/produtos/3487/420/sama-v3-maquiagem-store.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v3-maquiagem-store-3487/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v3 - Moda Fitness Masculino',
+            image: 'https://integrando.se//files/produtos/3480/420/sama-v3-moda-fitness-masculino.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v3-moda-fitness-masculino-3480/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v3 - Moda Jeans',
+            image: 'https://integrando.se//files/produtos/3479/420/sama-v3-moda-jeans.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v3-moda-jeans-3479/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v3 - Moda Equal',
+            image: 'https://integrando.se//files/produtos/3455/420/sama-v3-moda-equal.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v3-moda-equal/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v3 - Moda Inverno',
+            image: 'https://integrando.se//files/produtos/3426/420/sama-v3-moda-inverno.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v3-moda-inverno-3426/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v3 - Modas Unissex',
+            image: 'https://integrando.se//files/produtos/3413/420/sama-v3-modas-unissex.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v3-modas-unissex-3413/',
+            sales: 0,
+            rated: 0
+        },
+        {
             name: 'Samá v3 - Perfumaria',
             image: 'https://integrando.se//files/produtos/3345/420/sama-v3-perfumaria.png',
             url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v3-perfumaria-3345/',
