@@ -2,6 +2,34 @@ const Configuracoes = {
 
     PortFolio: [
         {
+            name: 'Samá v4 - Equal Store',
+            image: 'https://integrando.se//files/produtos/3568/420/sama-v4-equal-store.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v4-equal-store-3568/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v4 - Joias Store',
+            image: 'https://integrando.se//files/produtos/3567/420/sama-v4-joias-store.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v4-joias-store-3567/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v4 - Moda Fitness Feminino',
+            image: 'https://integrando.se//files/produtos/3523/420/sama-v4-moda-fitness-feminino.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v4-moda-fitness-feminino/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v4 - Modas e Acessórios',
+            image: 'https://integrando.se//files/produtos/3522/420/sama-v4-modas-e-acessorios.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v4-modas-e-acessorios/',
+            sales: 0,
+            rated: 0
+        },
+        {
             name: 'Samá v3 - Utensílios de Casa',
             image: 'https://integrando.se//files/produtos/3488/420/sama-v3-utensilios-de-casa.png',
             url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v3-utensilios-de-casa-3488/',
