@@ -30,6 +30,20 @@ const Configuracoes = {
             rated: 0
         },
         {
+            name: 'Samá v3 - Moda Moletom',
+            image: 'https://integrando.se//files/produtos/3508/420/sama-v3-moda-moletom.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v3-moda-moletom-3508/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v3 - Moda Evangélica',
+            image: 'https://integrando.se//files/produtos/3491/420/sama-v3-moda-evangelica.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v3-moda-evangelica-3491/',
+            sales: 0,
+            rated: 0
+        },
+        {
             name: 'Samá v3 - Utensílios de Casa',
             image: 'https://integrando.se//files/produtos/3488/420/sama-v3-utensilios-de-casa.png',
             url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v3-utensilios-de-casa-3488/',
