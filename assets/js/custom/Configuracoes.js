@@ -2,6 +2,41 @@ const Configuracoes = {
 
     PortFolio: [
         {
+            name: 'Samá v4 - Alimentação Saudável',
+            image: 'https://integrando.se//files/produtos/3622/420/sama-v4-alimentacao-saudavel.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v4-alimentacao-saudavel-3622/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v4 - Makeup Beauty',
+            image: 'https://integrando.se//files/produtos/3620/420/sama-v4-makeup-beauty.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v4-makeup-beauty-3620/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v4 - Moda Masculina',
+            image: 'https://integrando.se//files/produtos/3615/420/sama-v4-moda-masculina.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v4-moda-masculina-3615/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v4 - Calçados Store',
+            image: 'https://integrando.se//files/produtos/3614/420/sama-v4-calcados-store.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v4-calcados-store-3614/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v4 - Peças Automotivas',
+            image: 'https://integrando.se//files/produtos/3613/420/sama-v4-pecas-automotivas.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v4-pecas-automotivas-3613/',
+            sales: 0,
+            rated: 0
+        },
+        {
             name: 'Samá v4 - Equal Store',
             image: 'https://integrando.se//files/produtos/3568/420/sama-v4-equal-store.png',
             url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v4-equal-store-3568/',
