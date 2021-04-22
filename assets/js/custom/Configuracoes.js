@@ -39,7 +39,7 @@ const Configuracoes = {
         {
             name: 'Samá v4 - Equal Store',
             image: 'https://integrando.se//files/produtos/3568/420/sama-v4-equal-store.png',
-            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v4-equal-store-3568/',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v4-equal-store/',
             sales: 0,
             rated: 0
         },
