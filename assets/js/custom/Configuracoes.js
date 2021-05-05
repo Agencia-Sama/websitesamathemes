@@ -2,6 +2,104 @@ const Configuracoes = {
 
     PortFolio: [
         {
+            name: 'Samá v3 - Luminárias Store',
+            image: 'https://integrando.se//files/produtos/3727/420/sama-v3-luminarias-store.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v3-luminarias-store-3727/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'UP Vendas - Modas Unissex',
+            image: 'https://integrando.se//files/produtos/3722/420/up-vendas-modas-unissex.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/up-vendas-modas-unissex-3722/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v3 - Bag Store',
+            image: 'https://integrando.se//files/produtos/3718/420/sama-v3-bag-store.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v3-bag-store-3718/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v3 - Bermudas Jeans',
+            image: 'https://integrando.se//files/produtos/3717/420/sama-v3-bermudas-jeans.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v3-bermudas-jeans-3717/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v3 - Home Office',
+            image: 'https://integrando.se//files/produtos/3716/420/sama-v3-home-office.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v3-home-office-3716/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v4 - Suplementos',
+            image: 'https://integrando.se//files/produtos/3711/420/sam-v4-suplementos.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sam-v4-suplementos-3711/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v4 - Relógios Store',
+            image: 'https://integrando.se//files/produtos/3702/420/sama-v4-relogios-store.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v4-relogios-store-3702/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v4 - Perfumes Store',
+            image: 'https://integrando.se//files/produtos/3694/420/sama-v4-perfumes-store.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v4-perfumes-store-3694/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v4 - Decoracao para Casa',
+            image: 'https://integrando.se//files/produtos/3683/420/sama-v4-decoracao-para-casa.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v4-decoracao-para-casa-3683/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v4 - Wine Store',
+            image: 'https://integrando.se//files/produtos/3681/420/sama-v4-wine-store.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v4-wine-store-3681/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v4 - Sexshop',
+            image: 'https://integrando.se//files/produtos/3676/420/sama-v4-sexshop.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v4-sexshop-3676/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v4 - Bebidas',
+            image: 'https://integrando.se//files/produtos/3672/420/sama-v4-bebidas.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v4-bebidas-3672/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v4 - Mercado Pet',
+            image: 'https://integrando.se//files/produtos/3669/420/sama-v4-mercado-pet.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v4-mercado-pet-3669/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v4 - Esporte Fashion',
+            image: 'https://integrando.se//files/produtos/3651/420/sama-v4-esporte-fashion.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v4-esporte-fashion-3651/',
+            sales: 0,
+            rated: 0
+        },
+        {
             name: 'Samá v4 - Alimentação Saudável',
             image: 'https://integrando.se//files/produtos/3622/420/sama-v4-alimentacao-saudavel.png',
             url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v4-alimentacao-saudavel-3622/',
