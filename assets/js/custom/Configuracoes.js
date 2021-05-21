@@ -2,6 +2,71 @@ const Configuracoes = {
 
     PortFolio: [
         {
+            name: 'Samá v4 - Equip. para Laboratório',
+            image: 'https://integrando.se//files/produtos/3836/420/sama-v4-equip-para-laboratorio.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v4-equip-para-laboratorio-3836/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'UP Vendas - Livros Store',
+            image: 'https://integrando.se//files/produtos/3835/420/up-vendas-livros-store.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/up-vendas-livros-store-3835/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v4 - Flores e Cestas',
+            image: 'https://integrando.se//files/produtos/3819/420/sama-v4-flores-e-cestas.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v4-flores-e-cestas-3819/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v3 - Bikes Store',
+            image: 'https://integrando.se//files/produtos/3818/420/sama-v4-bikes-store.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v3-bikes-store/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v4 - Instrumentos Musicais',
+            image: 'https://integrando.se//files/produtos/3809/420/sam-v4-instrumentos-musicais.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sam-v4-instrumentos-musicais-3809/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v4 - Clocks Store',
+            image: 'https://integrando.se//files/produtos/3797/420/sam-v4-clocks-store.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sam-v4-clocks-store-3797/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v4 - Óculos Store',
+            image: 'https://integrando.se//files/produtos/3794/420/sama-v4-oculos-store.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v4-oculos-store-3794/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v3 - Vaper Store',
+            image: 'https://integrando.se//files/produtos/3787/420/sama-v3-vaper-store.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v3-vaper-store-3787/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v3 - Cuidados para Pele',
+            image: 'https://integrando.se//files/produtos/3786/420/sama-v3-cuidados-para-pele.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v3-cuidados-para-pele-3786/',
+            sales: 0,
+            rated: 0
+        },
+
+
+        {
             name: 'Samá v3 - Luminárias Store',
             image: 'https://integrando.se//files/produtos/3727/420/sama-v3-luminarias-store.png',
             url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v3-luminarias-store-3727/',
