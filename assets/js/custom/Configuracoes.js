@@ -2,6 +2,72 @@ const Configuracoes = {
 
     PortFolio: [
         {
+            name: 'Samá v4 - Cropped Plus',
+            image: 'https://integrando.se//files/produtos/3972/420/sama-v4-croppeds-plus.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v4-croppeds-plus-3972/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v4 - Shorts Plus',
+            image: 'https://integrando.se//files/produtos/3965/420/sama-v4-shorts-plus.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v4-shorts-plus-3965/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v4 - Beleza Plus',
+            image: 'https://integrando.se//files/produtos/3942/420/sama-v4-beleza-plus.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v4-beleza-plus-3942/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v4 - T-Shirt Plus',
+            image: 'https://integrando.se//files/produtos/3941/420/sama-v4-t-shirt-plus.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v4-t-shirt-plus-3941/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v4 - Acessórios Plus',
+            image: 'https://integrando.se//files/produtos/3940/420/sama-v4-acessorios-plus.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v4-acessorios-plus-3940/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v4 - Smartphone',
+            image: 'https://integrando.se//files/produtos/3939/420/sama-v4-smartphone.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v4-smartphone-3939/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v4 - Coffee Store',
+            image: 'https://integrando.se//files/produtos/3914/420/sama-v4-coffee-store.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v4-coffee-store/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v4 - Brechó Store',
+            image: 'https://integrando.se//files/produtos/3850/420/sama-v4-brecho-store.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v4-brecho-store-3850/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v4 - Plus Size',
+            image: 'https://integrando.se//files/produtos/3849/420/sama-v4-plus-size.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v4-plus-size-3849/',
+            sales: 0,
+            rated: 0
+        },
+
+
+        
+        {
             name: 'Samá v4 - Equip. para Laboratório',
             image: 'https://integrando.se//files/produtos/3836/420/sama-v4-equip-para-laboratorio.png',
             url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v4-equip-para-laboratorio-3836/',
