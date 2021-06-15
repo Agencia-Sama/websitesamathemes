@@ -2107,3 +2107,21 @@ div#content_portfolio::-webkit-scrollbar-thumb {
 .navbar-expand-lg .navbar-nav li.nav-item:nth-child(5) {
     display: none;
 }
+
+/*# New Session #*/
+section#about.about-loja-integrada {
+    background: #f5860e;
+}
+section#about.about-loja-integrada img {
+    max-width: 300px;
+    margin-bottom: 25px;
+}
+section#about.about-loja-integrada h2.title {
+    color: #fff;
+}
+section#about.about-loja-integrada p,section#about.about-loja-integrada a {
+    color: #fff;
+}
+section#about.about-loja-integrada a:hover {
+    color: #171717;
+}
