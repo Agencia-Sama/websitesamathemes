@@ -2,6 +2,71 @@ const Configuracoes = {
 
     PortFolio: [
         {
+            name: 'Samá v4 - Moda Praia Plus',
+            image: 'https://integrando.se//files/produtos/4027/420/sama-v4-moda-praia-plus.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v4-moda-praia-plus-4027/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v4 - Polos Imports Plus',
+            image: 'https://integrando.se//files/produtos/4015/420/sama-v4-polos-imports-plus.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v4-polos-imports-plus-4015/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v4 - Camisarias Plus',
+            image: 'https://integrando.se//files/produtos/4014/420/sama-v4-camisarias-plus.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v4-camisarias-plus-4014/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v4 - Plus Size',
+            image: 'https://integrando.se//files/produtos/4013/420/sama-v4-plus-size.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v4-plus-size-4013/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v4 - Cosméticos Plus',
+            image: 'https://integrando.se//files/produtos/4006/420/sama-v4-cosmeticos-plus.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v4-cosmeticos-plus-4006/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v4 - Moda Evangélica Plus',
+            image: 'https://integrando.se//files/produtos/4005/420/sama-v4-moda-evangelica-plus.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v4-moda-evangelica-plus-4005/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v4 - Uten. Cozinha Plus',
+            image: 'https://integrando.se//files/produtos/3997/420/sama-v4-uten-cozinha-plus.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v4-uten-cozinha-plus/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v4 - Moto Plus',
+            image: 'https://integrando.se//files/produtos/3986/420/sama-v4-moto-plus.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v4-moto-plus/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Samá v4 - Calçados Plus',
+            image: 'https://integrando.se//files/produtos/3981/420/sama-v4-calcados-plus.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v4-calcados-plus/',
+            sales: 0,
+            rated: 0
+        },
+
+
+        {
             name: 'Samá v4 - Cropped Plus',
             image: 'https://integrando.se//files/produtos/3972/420/sama-v4-croppeds-plus.png',
             url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v4-croppeds-plus-3972/',
@@ -84,7 +149,7 @@ const Configuracoes = {
         {
             name: 'Samá v4 - Flores e Cestas',
             image: 'https://integrando.se//files/produtos/3819/420/sama-v4-flores-e-cestas.png',
-            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v4-flores-e-cestas-3819/',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v4-flores-e-cestas/',
             sales: 0,
             rated: 0
         },
@@ -112,7 +177,7 @@ const Configuracoes = {
         {
             name: 'Samá v4 - Óculos Store',
             image: 'https://integrando.se//files/produtos/3794/420/sama-v4-oculos-store.png',
-            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v4-oculos-store-3794/',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v4-oculos-store/',
             sales: 0,
             rated: 0
         },
@@ -135,7 +200,7 @@ const Configuracoes = {
         {
             name: 'Samá v3 - Luminárias Store',
             image: 'https://integrando.se//files/produtos/3727/420/sama-v3-luminarias-store.png',
-            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v3-luminarias-store-3727/',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v3-luminarias-store/',
             sales: 0,
             rated: 0
         },
@@ -170,7 +235,7 @@ const Configuracoes = {
         {
             name: 'Samá v4 - Suplementos',
             image: 'https://integrando.se//files/produtos/3711/420/sam-v4-suplementos.png',
-            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sam-v4-suplementos-3711/',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sam-v4-suplementos/',
             sales: 0,
             rated: 0
         },
@@ -388,7 +453,7 @@ const Configuracoes = {
         {
             name: 'Samá v3 - Peças de Carro',
             image: 'https://integrando.se//files/produtos/3290/420/sama-v3-pecas-de-carro.png',
-            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v3-pecas-de-carro-3290/',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v3-pecas-de-carro/',
             sales: 0,
             rated: 0
         },
