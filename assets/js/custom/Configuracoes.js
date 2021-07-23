@@ -2,6 +2,114 @@ const Configuracoes = {
 
     PortFolio: [
         {
+            name: 'Sama v4 - Fotografia Plus',
+            image: 'https://integrando.se//files/produtos/4181/420/sama-v4-fotografia-plus.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v4-fotografia-plus/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Sama v4 - Grafica Plus',
+            image: 'https://integrando.se//files/produtos/4155/420/sama-v4-grafica-plus.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v4-grafica-plus/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Sama v4 - Bijuterias Plus',
+            image: 'https://integrando.se//files/produtos/4152/420/sama-v4-bijuterias-plus.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v4-bijuterias-plus/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Sama v4 - Zirconias Piercing Plus',
+            image: 'https://integrando.se//files/produtos/4135/420/sama-v4-zirconias-piercing-plus.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v4-zirconias-piercing-plus/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Sama v4 - Suplementos Plus',
+            image: 'https://integrando.se//files/produtos/4125/420/sama-v4-suplementos-plus.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v4-suplementos-plus/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Sama v4 - Tricot Modas Plus',
+            image: 'https://integrando.se//files/produtos/4120/420/sama-v4-tricot-modas-plus.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v4-tricot-modas-plus/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Sama v4 - Bone Plus',
+            image: 'https://integrando.se//files/produtos/4112/420/sama-v4-bone-plus.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v4-bone-plus/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Sama v4 - Visual Óculos Plus',
+            image: 'https://integrando.se//files/produtos/4110/420/sama-v4-visual-oculos-plus.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v4-visual-oculos-plus/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'UP Vendas - Makes',
+            image: 'https://integrando.se//files/produtos/4092/420/up-vendas-makes.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/up-vendas-makes/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'UP Vendas - Livraria',
+            image: 'https://integrando.se//files/produtos/4091/420/up-vendas-livraria.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/up-vendas-livraria/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'UP Vendas - Perfumaria',
+            image: 'https://integrando.se//files/produtos/4090/420/up-vendas-perfumaria.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/up-vendas-perfumaria-4090/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'UP Vendas - Lingerie',
+            image: 'https://integrando.se//files/produtos/4087/420/up-vendas-lingerie.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/up-vendas-lingerie/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Sama v4 - Moda Fitness Plus',
+            image: 'https://integrando.se//files/produtos/4045/420/sama-v4-moda-fitness-plus.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v4-moda-fitness-plus/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Sama v4 - Relogios Plus',
+            image: 'https://integrando.se//files/produtos/4042/420/1624655970sama-v4-relogios-plus.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v4-relogios-plus/',
+            sales: 0,
+            rated: 0
+        },
+        {
+            name: 'Sama v4 - Griffes Masculina Plus',
+            image: 'https://integrando.se//files/produtos/4040/420/sama-v4-griffes-masculina-plus.png',
+            url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v4-griffes-masculina-plus/',
+            sales: 0,
+            rated: 0
+        },
+
+
+        
+        {
             name: 'Samá v4 - Moda Praia Plus',
             image: 'https://integrando.se//files/produtos/4027/420/sama-v4-moda-praia-plus.png',
             url: 'https://integrando.se/temas/e-commerce/loja-integrada/sama-v4-moda-praia-plus-4027/',
